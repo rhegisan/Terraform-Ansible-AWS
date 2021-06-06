@@ -1,1 +1,1 @@
-# __Intergrating Terraform and Ansible | AWS cloud platform__
+# __Integrating Terraform and Ansible | AWS cloud platform__
